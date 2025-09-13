@@ -8,22 +8,22 @@ Based in **Hyderabad, India**, I am currently on a journey to master full-stack 
 
 ## Skills & Technologies
 
-java,spring,html,css,docker,git,mysql,java,js,graphql
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,docker,git,mysql,java,js,graphql&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-- [**Java-Assignments**](https://github.com/chandrakant-mali85/Java-Assignments) - Daily Java assignments and practice problems for learning and improving Java programming skills. ⭐ 0 Stars | 🔄 0 Forks | 🐞 0 Open Issues
-- [**CSS-Task**](https://github.com/chandrakant-mali85/CSS-Task) - A project showcasing my CSS skills. ⭐ 0 Stars | 🔄 0 Forks | 🐞 0 Open Issues
-- [**chandu85**](https://github.com/chandrakant-mali85/chandu85) - A simple Hello World project. ⭐ 0 Stars | 🔄 0 Forks | 🐞 0 Open Issues
-- [**Webdevelopment**](https://github.com/chandrakant-mali85/Webdevelopment) - A collection of web development projects. ⭐ 0 Stars | 🔄 0 Forks | 🐞 0 Open Issues
-- [**daily-challenge**](https://github.com/chandrakant-mali85/daily-challenge) - A repo for solving daily coding problems. ⭐ 0 Stars | 🔄 0 Forks | 🐞 0 Open Issues
+
+
+
+
+
 
 ## GitHub Stats
-
 🌟 **Public Repositories:** 7  
 👥 **Followers:** 0  
 👉 **Following:** 1  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrakant-mali85&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakant-mali85&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
@@ -35,5 +35,3 @@ java,spring,html,css,docker,git,mysql,java,js,graphql
 Currently, I do not have any blog posts to share. Stay tuned for updates!
 
 ## Connect with Me
-
-{}

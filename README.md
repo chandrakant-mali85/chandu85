@@ -8,7 +8,7 @@ Based in **Hyderabad, India**, I am currently on a journey to master full-stack 
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,docker,git,mysql,js,graphql&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,docker,git,mysql,js=8)](https://skillicons.dev)
 
 ## Top Projects
 

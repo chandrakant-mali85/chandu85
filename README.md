@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chandrakant-mali85/chandrakant-mali85/main/afcc7f86-55ce-4952-8d88-827170fdc12d.png" alt="Chandrakant Mali" width="200" style="border-radius: 50%;">
+</p>
+
 ## Hi there! 👋
 
 I'm **Chandrakant Mali**, an aspiring Full-Stack Java Developer. I am passionate about building innovative projects and growing my skillset daily.
@@ -8,29 +12,23 @@ Based in **Hyderabad, India**, I am currently on a journey to master full-stack 
 
 ## Skills & Technologies
 
-## Skills & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,react,nodejs,mysql,postgresql,mongodb,git,github,docker,aws,postman,idea,eclipse)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,react,bootstrap,git,github,mysql,postgres,docker,aws&perline=7)](https://skillicons.dev)
 
 ## Top Projects
 
-
-
-
-
-
+*(Coming Soon...)*
 
 ## GitHub Stats
 🌟 **Public Repositories:** 7  
 👥 **Followers:** 0  
 👉 **Following:** 1  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrakant-mali85&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrakant-mali85&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakant-mali85&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
-- **Added** a simple Java program demonstrating exception handling in [Java-Assignments](https://github.com/chandrakant-mali85/Java-Assignments) on **August 30, 2025**.
+- **Added** a simple Java program demonstrating exception handling in [Java-Assignments](https://github.com/chandrakant-mali85/Java-Assignments) on **August 30, 2025**.  
 - **Created** a new branch in the [Projects](https://github.com/chandrakant-mali85/Projects) repository on **August 29, 2025**.
 
 ## Latest Blog Posts
@@ -38,3 +36,6 @@ Based in **Hyderabad, India**, I am currently on a journey to master full-stack 
 Currently, I do not have any blog posts to share. Stay tuned for updates!
 
 ## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/chandrakant-mali-b57153381/)  
+- [GitHub](https://github.com/chandrakant-mali85)  

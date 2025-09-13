@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chandrakant-mali85/chandrakant-mali85/main/afcc7f86-55ce-4952-8d88-827170fdc12d.png" alt="Chandrakant Mali" width="200" style="border-radius: 50%;">
+  <img src="https://raw.githubusercontent.com/chandrakant-mali85/chandrakant-mali85/main/vSwpmsy6ZtVmUZkNt5APy.png" alt="Tech Heart Circuit" width="600">
 </p>
+
 
 ## Hi there! 👋
 
@@ -17,18 +18,6 @@ Based in **Hyderabad, India**, I am currently on a journey to master full-stack 
 ## Top Projects
 
 *(Coming Soon...)*
-
-## Featured Insight 🧠
-
-<p align="center">
-  <img src="https://imageio.forbes.com/specials-images/imageserve/648bef5a58f8e334fb7d57bb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" alt="Technology in Healthcare" width="600">
-</p>
-
-🔗 [Read the full article on Forbes](https://www.forbes.com/sites/bernardmarr/2023/06/16/how-technology-is-transforming-the-future-of-healthcare/)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chandrakant-mali85/chandrakant-mali85/main/vSwpmsy6ZtVmUZkNt5APy.png" alt="Tech Heart Circuit" width="600">
-</p>
 
 ## GitHub Stats
 🌟 **Public Repositories:** 7  

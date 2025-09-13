@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chandrakant-mali85/chandrakant-mali85/main/vSwpmsy6ZtVmUZkNt5APy.png" alt="Tech Heart Circuit" width="600">
+  <img src="https://imageio.forbes.com/specials-images/imageserve/648bef5a58f8e334fb7d57bb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" alt="Technology in Healthcare" width="600">
 </p>
 
 
